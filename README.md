@@ -1,4 +1,4 @@
-# The-privacy-policy-of-Digital News Learning Place
+# The-privacy-policy-of-Digital News Hotspots Zone
 
 The App understands the importance of personal information to you and will do its best to protect your personal information. We are committed to maintaining your trust in us and protecting your personal information by abiding by the following principles: the principle of alignment of rights and responsibilities, the principle of clarity of purpose, the principle of choice of consent, the principle of least sufficient, the principle of ensuring security, the principle of subject participation, the principle of openness and transparency, etc. At the same time, we promise that we will take appropriate security measures to protect your personal information in accordance with the industry's mature security standards. Please read and understand this Privacy Policy carefully before using our products (or services).
 I. How do we collect and use your personal information
@@ -43,6 +43,6 @@ Account Information -- If you want to access or edit your account's profile info
 V. How to update this Privacy Policy
 We may adjust or change this Privacy Policy in due time. Any update of this Privacy Policy will be posted on our website with the time of update. Unless otherwise mandatory by laws, regulations or regulatory provisions, the adjusted or changed contents will take effect 7 days after the notice or publication. If you continue to use any of the services provided by us or visit our relevant websites after the privacy policy is adjusted or changed, we believe that this means that you have fully read, understood and accepted the revised privacy policy and are bound by it.
 6. How to contact us
-If you have any questions, comments or suggestions regarding this Privacy Policy, please contact us at talilaezyrk@hotmail.com:
+If you have any questions, comments or suggestions regarding this Privacy Policy, please contact us at biditekim@hotmail.com
 
 Normally, we will respond within 30 days.
